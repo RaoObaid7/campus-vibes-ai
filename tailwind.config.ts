@@ -47,6 +47,17 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        campus: {
+          primary: "hsl(var(--campus-primary))",
+          secondary: "hsl(var(--campus-secondary))",
+          accent: "hsl(var(--campus-accent))",
+        },
+        category: {
+          tech: "hsl(var(--tech-color))",
+          sports: "hsl(var(--sports-color))",
+          workshop: "hsl(var(--workshop-color))",
+          seminar: "hsl(var(--seminar-color))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
